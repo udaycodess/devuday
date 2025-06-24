@@ -1,2 +1,2 @@
 # devuday
-This is mt first Respository.
+This is my first Respository.
